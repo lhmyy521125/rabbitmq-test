@@ -9,3 +9,5 @@
 ## [RabbitMQ教程系列（六）RabbitMQ的Return消息机制](https://blog.csdn.net/lhmyy521125/article/details/88080974)
 ## [RabbitMQ教程系列（七）消费端ACK和消费端拒绝](https://blog.csdn.net/lhmyy521125/article/details/88135904)
 ## [RabbitMQ教程系列（八）消息的TTL和RabbitMQ的各种队列介绍](https://blog.csdn.net/lhmyy521125/article/details/88406025)
+## [RabbitMQ教程系列（九）Spring Boot2.1.3集成最新版本Spring AMQP(RabbitMQ)](https://blog.csdn.net/lhmyy521125/article/details/88657632)
+## [RabbitMQ教程系列（十）Spring Boot使用Spring AMQP的消息分发和限流](https://blog.csdn.net/lhmyy521125/article/details/88710180)
